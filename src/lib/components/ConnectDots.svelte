@@ -1,7 +1,7 @@
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
     <h2 class="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-16 max-w-2xl mx-auto tracking-tight">
-        Connect the dots between posts<br />
-        and easily reference past decisions
+        Track every bug from report<br />
+        to resolution
     </h2>
 
     <div class="relative max-w-4xl mx-auto mb-16">
@@ -105,11 +105,11 @@
     <!-- Testimonial -->
     <div class="max-w-3xl mx-auto">
         <blockquote class="text-lg text-gray-500 leading-relaxed">
-            Campsite is like the office for our remote team. It's a delightful space where we jam on ideas and <span class="bg-yellow-100 text-yellow-800 px-1 rounded">keep everyone updated on work-in-progress.</span>
+            We used to lose bugs in Slack threads and email chains. With BugSmash, <span class="bg-primary-100 text-primary-800 px-1 rounded">every issue is tracked, assigned, and resolved.</span> Nothing falls through the cracks anymore.
         </blockquote>
         <div class="flex items-center gap-3 mt-4">
-            <img src="https://i.pravatar.cc/150?u=ryan" alt="Ryan Olson" class="w-8 h-8 rounded-full bg-gray-200 grayscale" />
-            <div class="text-sm text-gray-500">Ryan Olson, CTO at Retro</div>
+            <img src="https://i.pravatar.cc/150?u=jordan" alt="Jordan Lee" class="w-8 h-8 rounded-full bg-gray-200 grayscale" />
+            <div class="text-sm text-gray-500">Jordan Lee, Product Manager at TechFlow</div>
         </div>
     </div>
 </section>

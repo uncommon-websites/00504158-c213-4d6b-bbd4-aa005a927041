@@ -1,7 +1,7 @@
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto overflow-hidden">
     <h2 class="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-20 max-w-2xl mx-auto tracking-tight">
-        Supercharge every post with<br />
-        apps and custom integrations
+        Integrates with your<br />
+        favorite dev tools
     </h2>
 
     <div class="relative h-[400px] max-w-3xl mx-auto flex items-center justify-center">
@@ -25,7 +25,7 @@
             <line x1="400" y1="200" x2="520" y2="240" stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 4" />
         </svg>
 
-        <!-- Central Node (Campsite?) - Actually it seems empty or subtle in the screenshot, but let's put a small dot -->
+        <!-- Central Node (BugSmash) - Subtle center point -->
         <div class="absolute w-4 h-4 bg-gray-200 rounded-full"></div>
 
         <!-- Logos -->

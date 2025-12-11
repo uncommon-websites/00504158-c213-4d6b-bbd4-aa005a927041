@@ -1,7 +1,7 @@
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
     <h2 class="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-16 max-w-2xl mx-auto tracking-tight">
-        Follow teams & projects without<br />
-        drowning in notifications
+        Organize feedback by project<br />
+        and keep everyone in sync
     </h2>
 
     <div class="relative max-w-4xl mx-auto mb-16">
@@ -97,11 +97,11 @@
     <!-- Testimonial -->
     <div class="max-w-3xl mx-auto">
         <blockquote class="text-lg text-gray-500 leading-relaxed">
-            We went from Slack to Twist to Threads and finally found the best async-first tool for our remote team. <span class="bg-orange-100 text-orange-800 px-1 rounded">Campsite allows us to be more mindful with posts without distracting everyone.</span> It's a huge productivity bonus over Slack.
+            Managing feedback for 12 client projects used to be chaos. <span class="bg-primary-100 text-primary-800 px-1 rounded">BugSmash keeps everything organized by project</span> so we can focus on shipping great work instead of hunting for feedback.
         </blockquote>
         <div class="flex items-center gap-3 mt-4">
-            <img src="https://i.pravatar.cc/150?u=peer" alt="Peer Richelsen" class="w-8 h-8 rounded-full bg-gray-200 grayscale" />
-            <div class="text-sm text-gray-500">Peer Richelsen, Co-founder at Cal.com</div>
+            <img src="https://i.pravatar.cc/150?u=maria" alt="Maria Santos" class="w-8 h-8 rounded-full bg-gray-200 grayscale" />
+            <div class="text-sm text-gray-500">Maria Santos, Agency Owner at Bright Digital</div>
         </div>
     </div>
 </section>
